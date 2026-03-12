@@ -1,6 +1,6 @@
 streamlit
 pandas
 streamlit-gsheets
+st-theme
 streamlit-drawable-canvas
 plotly
-fpdf
