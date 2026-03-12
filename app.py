@@ -142,6 +142,11 @@ if menu == "🏠 Beranda":
             maksud = st.text_area("Maksud Kunjungan", height=100)
             kesan = st.text_area("Kesan dan Pesan", height=100)
 
+        # --- FITUR KAMERA ---
+        st.markdown("### 📸 Ambil Foto Pengunjung")
+        foto_input = st.camera_input("Silakan ambil foto untuk verifikasi:")
+
+        # --- FITUR TANDA TANGAN ---
         st.markdown("### ✍️ Tanda Tangan Digital")
         st.caption("Gunakan mouse atau jari Anda pada area di bawah:")
         
