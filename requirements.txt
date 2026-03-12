@@ -1,6 +1,6 @@
 streamlit
 pandas
-st-gsheets-connection
+streamlit-gsheets
 streamlit-drawable-canvas
 plotly
 fpdf
