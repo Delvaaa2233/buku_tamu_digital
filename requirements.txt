@@ -1,0 +1,6 @@
+streamlit
+pandas
+streamlit-gsheets
+streamlit-drawable-canvas
+plotly
+fpdf
